@@ -4,5 +4,5 @@ Ever wondered what it'll be like to start big as a snake? In this project, I mod
 
 <ins> **Resources, Inspirations, and Credits:** </ins> <br>
 
-**_How to Make Pac-Man in Python!_** <br>
+**_Build a Simple SNAKE Game with Python!_** <br>
 LeMaster Tech | https://www.youtube.com/watch?v=X2Wripo2Hxg <br>

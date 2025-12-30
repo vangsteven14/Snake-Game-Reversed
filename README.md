@@ -1,6 +1,6 @@
 # Snake Game: Reversed!
 
-Ever wondered what it'll be like to start big as a snake? In this project, I modified and extended existing codes by highlighting my abilities to implement, analyze, and engineer software solutions while incorporating my original design. <br>
+Ever wondered what it'll be like to start big as a snake? In this project, I modified and extended existing code by highlighting my abilities to implement, analyze, and engineer software solutions while incorporating my original design. <br>
 
 <ins> **Resources, Inspirations, and Credits:** </ins> <br>
 
